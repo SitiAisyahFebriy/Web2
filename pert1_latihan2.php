@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $A = 123 ; // variable global
 function Test() {
 global $A ; // variable local
